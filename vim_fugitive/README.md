@@ -1,3 +1,3 @@
 #Fugitive - Vim
 
-The `:Gtabedit` command
+#The `:Gtabedit` command
